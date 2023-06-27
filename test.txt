@@ -1,0 +1,8 @@
+my first file
+This file
+
+contains three lines
+
+-a = git add . 
+
+git log --oneline
