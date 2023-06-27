@@ -5,8 +5,11 @@ contains three lines
 
 --amend //edit commit 
 
--a = git add . 
+-a // them tat ca cac thay doi cac fil da co vao staging nhung khong them cac file moi tao
 
 git log --oneline
 
 git push --force //ghi de lich su
+
+- khi muon ignore 1 file da day len git 
+   can xoa cache cua staging bang lenh: git rm -rf --cached .
