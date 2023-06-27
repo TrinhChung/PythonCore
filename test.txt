@@ -3,6 +3,8 @@ This file
 
 contains three lines
 
+--amend //edit commit 
+
 -a = git add . 
 
 git log --oneline
