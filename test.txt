@@ -6,3 +6,5 @@ contains three lines
 -a = git add . 
 
 git log --oneline
+
+git push --force //ghi de lich su
